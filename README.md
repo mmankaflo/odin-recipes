@@ -6,7 +6,7 @@ Welcome to **Odin Recipes**, a simple web project that showcases delicious recip
 
 ## 📸 Preview
 
-![Project Screenshot](./screenshot.png)  
+https://github.com/mmankaflo/odin-recipes.git
 *A clean, responsive recipe dashboard built with love and HTML/CSS.*
 
 ---
